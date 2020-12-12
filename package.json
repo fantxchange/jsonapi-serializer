@@ -3,6 +3,7 @@
   "version": "3.6.6",
   "description": "A Node.js framework agnostic library for serializing your data to JSON API",
   "main": "index.js",
+  "types": "index.d.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
